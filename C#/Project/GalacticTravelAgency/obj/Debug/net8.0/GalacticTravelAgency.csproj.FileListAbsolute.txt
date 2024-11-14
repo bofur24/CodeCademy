@@ -1,0 +1,15 @@
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\GalacticTravelAgency\bin\Debug\net8.0\GalacticTravelAgency.exe
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\GalacticTravelAgency\bin\Debug\net8.0\GalacticTravelAgency.deps.json
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\GalacticTravelAgency\bin\Debug\net8.0\GalacticTravelAgency.runtimeconfig.json
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\GalacticTravelAgency\bin\Debug\net8.0\GalacticTravelAgency.dll
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\GalacticTravelAgency\bin\Debug\net8.0\GalacticTravelAgency.pdb
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\GalacticTravelAgency\obj\Debug\net8.0\GalacticTravelAgency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\GalacticTravelAgency\obj\Debug\net8.0\GalacticTravelAgency.AssemblyInfoInputs.cache
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\GalacticTravelAgency\obj\Debug\net8.0\GalacticTravelAgency.AssemblyInfo.cs
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\GalacticTravelAgency\obj\Debug\net8.0\GalacticTravelAgency.csproj.CoreCompileInputs.cache
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\GalacticTravelAgency\obj\Debug\net8.0\GalacticTravelAgency.sourcelink.json
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\GalacticTravelAgency\obj\Debug\net8.0\GalacticTravelAgency.dll
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\GalacticTravelAgency\obj\Debug\net8.0\refint\GalacticTravelAgency.dll
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\GalacticTravelAgency\obj\Debug\net8.0\GalacticTravelAgency.pdb
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\GalacticTravelAgency\obj\Debug\net8.0\GalacticTravelAgency.genruntimeconfig.cache
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\GalacticTravelAgency\obj\Debug\net8.0\ref\GalacticTravelAgency.dll
