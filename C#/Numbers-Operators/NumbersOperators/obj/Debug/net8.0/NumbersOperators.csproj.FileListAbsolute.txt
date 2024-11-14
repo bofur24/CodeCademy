@@ -1,0 +1,15 @@
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Numbers-Operators\NumbersOperators\obj\Debug\net8.0\NumbersOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Numbers-Operators\NumbersOperators\obj\Debug\net8.0\NumbersOperators.AssemblyInfoInputs.cache
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Numbers-Operators\NumbersOperators\obj\Debug\net8.0\NumbersOperators.AssemblyInfo.cs
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Numbers-Operators\NumbersOperators\obj\Debug\net8.0\NumbersOperators.csproj.CoreCompileInputs.cache
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Numbers-Operators\NumbersOperators\obj\Debug\net8.0\NumbersOperators.sourcelink.json
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Numbers-Operators\NumbersOperators\bin\Debug\net8.0\NumbersOperators.exe
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Numbers-Operators\NumbersOperators\bin\Debug\net8.0\NumbersOperators.deps.json
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Numbers-Operators\NumbersOperators\bin\Debug\net8.0\NumbersOperators.runtimeconfig.json
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Numbers-Operators\NumbersOperators\bin\Debug\net8.0\NumbersOperators.dll
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Numbers-Operators\NumbersOperators\bin\Debug\net8.0\NumbersOperators.pdb
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Numbers-Operators\NumbersOperators\obj\Debug\net8.0\NumbersOperators.dll
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Numbers-Operators\NumbersOperators\obj\Debug\net8.0\refint\NumbersOperators.dll
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Numbers-Operators\NumbersOperators\obj\Debug\net8.0\NumbersOperators.pdb
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Numbers-Operators\NumbersOperators\obj\Debug\net8.0\NumbersOperators.genruntimeconfig.cache
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Numbers-Operators\NumbersOperators\obj\Debug\net8.0\ref\NumbersOperators.dll
