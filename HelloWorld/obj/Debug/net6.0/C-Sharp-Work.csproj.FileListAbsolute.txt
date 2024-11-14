@@ -1,0 +1,42 @@
+C:\Users\HeffingtonKL\OneDrive - NOV Inc\Programming\W3Schools\C-Sharp\HelloWorld\bin\Debug\net6.0\C-Sharp-Work.exe
+C:\Users\HeffingtonKL\OneDrive - NOV Inc\Programming\W3Schools\C-Sharp\HelloWorld\bin\Debug\net6.0\C-Sharp-Work.deps.json
+C:\Users\HeffingtonKL\OneDrive - NOV Inc\Programming\W3Schools\C-Sharp\HelloWorld\bin\Debug\net6.0\C-Sharp-Work.runtimeconfig.json
+C:\Users\HeffingtonKL\OneDrive - NOV Inc\Programming\W3Schools\C-Sharp\HelloWorld\bin\Debug\net6.0\C-Sharp-Work.dll
+C:\Users\HeffingtonKL\OneDrive - NOV Inc\Programming\W3Schools\C-Sharp\HelloWorld\bin\Debug\net6.0\C-Sharp-Work.pdb
+C:\Users\HeffingtonKL\OneDrive - NOV Inc\Programming\W3Schools\C-Sharp\HelloWorld\obj\Debug\net6.0\C-Sharp-Work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HeffingtonKL\OneDrive - NOV Inc\Programming\W3Schools\C-Sharp\HelloWorld\obj\Debug\net6.0\C-Sharp-Work.AssemblyInfoInputs.cache
+C:\Users\HeffingtonKL\OneDrive - NOV Inc\Programming\W3Schools\C-Sharp\HelloWorld\obj\Debug\net6.0\C-Sharp-Work.AssemblyInfo.cs
+C:\Users\HeffingtonKL\OneDrive - NOV Inc\Programming\W3Schools\C-Sharp\HelloWorld\obj\Debug\net6.0\C-Sharp-Work.csproj.CoreCompileInputs.cache
+C:\Users\HeffingtonKL\OneDrive - NOV Inc\Programming\W3Schools\C-Sharp\HelloWorld\obj\Debug\net6.0\C-Sharp-Work.dll
+C:\Users\HeffingtonKL\OneDrive - NOV Inc\Programming\W3Schools\C-Sharp\HelloWorld\obj\Debug\net6.0\refint\C-Sharp-Work.dll
+C:\Users\HeffingtonKL\OneDrive - NOV Inc\Programming\W3Schools\C-Sharp\HelloWorld\obj\Debug\net6.0\C-Sharp-Work.pdb
+C:\Users\HeffingtonKL\OneDrive - NOV Inc\Programming\W3Schools\C-Sharp\HelloWorld\obj\Debug\net6.0\C-Sharp-Work.genruntimeconfig.cache
+C:\Users\HeffingtonKL\OneDrive - NOV Inc\Programming\W3Schools\C-Sharp\HelloWorld\obj\Debug\net6.0\ref\C-Sharp-Work.dll
+C:\Users\light\OneDrive\Files\Programming\W3Schools\C-Sharp\HelloWorld\bin\Debug\net6.0\C-Sharp-Work.exe
+C:\Users\light\OneDrive\Files\Programming\W3Schools\C-Sharp\HelloWorld\bin\Debug\net6.0\C-Sharp-Work.deps.json
+C:\Users\light\OneDrive\Files\Programming\W3Schools\C-Sharp\HelloWorld\bin\Debug\net6.0\C-Sharp-Work.runtimeconfig.json
+C:\Users\light\OneDrive\Files\Programming\W3Schools\C-Sharp\HelloWorld\bin\Debug\net6.0\C-Sharp-Work.dll
+C:\Users\light\OneDrive\Files\Programming\W3Schools\C-Sharp\HelloWorld\bin\Debug\net6.0\C-Sharp-Work.pdb
+C:\Users\light\OneDrive\Files\Programming\W3Schools\C-Sharp\HelloWorld\obj\Debug\net6.0\C-Sharp-Work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\light\OneDrive\Files\Programming\W3Schools\C-Sharp\HelloWorld\obj\Debug\net6.0\C-Sharp-Work.AssemblyInfoInputs.cache
+C:\Users\light\OneDrive\Files\Programming\W3Schools\C-Sharp\HelloWorld\obj\Debug\net6.0\C-Sharp-Work.AssemblyInfo.cs
+C:\Users\light\OneDrive\Files\Programming\W3Schools\C-Sharp\HelloWorld\obj\Debug\net6.0\C-Sharp-Work.csproj.CoreCompileInputs.cache
+C:\Users\light\OneDrive\Files\Programming\W3Schools\C-Sharp\HelloWorld\obj\Debug\net6.0\C-Sharp-Work.dll
+C:\Users\light\OneDrive\Files\Programming\W3Schools\C-Sharp\HelloWorld\obj\Debug\net6.0\refint\C-Sharp-Work.dll
+C:\Users\light\OneDrive\Files\Programming\W3Schools\C-Sharp\HelloWorld\obj\Debug\net6.0\C-Sharp-Work.pdb
+C:\Users\light\OneDrive\Files\Programming\W3Schools\C-Sharp\HelloWorld\obj\Debug\net6.0\C-Sharp-Work.genruntimeconfig.cache
+C:\Users\light\OneDrive\Files\Programming\W3Schools\C-Sharp\HelloWorld\obj\Debug\net6.0\ref\C-Sharp-Work.dll
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\W3Schools\C-Sharp\HelloWorld\obj\Debug\net6.0\C-Sharp-Work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\W3Schools\C-Sharp\HelloWorld\obj\Debug\net6.0\C-Sharp-Work.AssemblyInfoInputs.cache
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\W3Schools\C-Sharp\HelloWorld\obj\Debug\net6.0\C-Sharp-Work.AssemblyInfo.cs
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\W3Schools\C-Sharp\HelloWorld\obj\Debug\net6.0\C-Sharp-Work.csproj.CoreCompileInputs.cache
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\W3Schools\C-Sharp\HelloWorld\obj\Debug\net6.0\C-Sharp-Work.dll
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\W3Schools\C-Sharp\HelloWorld\obj\Debug\net6.0\refint\C-Sharp-Work.dll
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\W3Schools\C-Sharp\HelloWorld\obj\Debug\net6.0\C-Sharp-Work.pdb
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\W3Schools\C-Sharp\HelloWorld\bin\Debug\net6.0\C-Sharp-Work.exe
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\W3Schools\C-Sharp\HelloWorld\bin\Debug\net6.0\C-Sharp-Work.deps.json
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\W3Schools\C-Sharp\HelloWorld\bin\Debug\net6.0\C-Sharp-Work.runtimeconfig.json
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\W3Schools\C-Sharp\HelloWorld\bin\Debug\net6.0\C-Sharp-Work.dll
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\W3Schools\C-Sharp\HelloWorld\bin\Debug\net6.0\C-Sharp-Work.pdb
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\W3Schools\C-Sharp\HelloWorld\obj\Debug\net6.0\C-Sharp-Work.genruntimeconfig.cache
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\W3Schools\C-Sharp\HelloWorld\obj\Debug\net6.0\ref\C-Sharp-Work.dll
