@@ -1,0 +1,15 @@
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\Project\ConsoleCreatures\obj\Debug\net8.0\ConsoleCreatures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\Project\ConsoleCreatures\obj\Debug\net8.0\ConsoleCreatures.AssemblyInfoInputs.cache
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\Project\ConsoleCreatures\obj\Debug\net8.0\ConsoleCreatures.AssemblyInfo.cs
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\Project\ConsoleCreatures\obj\Debug\net8.0\ConsoleCreatures.csproj.CoreCompileInputs.cache
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\Project\ConsoleCreatures\obj\Debug\net8.0\ConsoleCreatures.sourcelink.json
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\Project\ConsoleCreatures\bin\Debug\net8.0\ConsoleCreatures.exe
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\Project\ConsoleCreatures\bin\Debug\net8.0\ConsoleCreatures.deps.json
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\Project\ConsoleCreatures\bin\Debug\net8.0\ConsoleCreatures.runtimeconfig.json
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\Project\ConsoleCreatures\bin\Debug\net8.0\ConsoleCreatures.dll
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\Project\ConsoleCreatures\bin\Debug\net8.0\ConsoleCreatures.pdb
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\Project\ConsoleCreatures\obj\Debug\net8.0\ConsoleCreatures.dll
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\Project\ConsoleCreatures\obj\Debug\net8.0\refint\ConsoleCreatures.dll
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\Project\ConsoleCreatures\obj\Debug\net8.0\ConsoleCreatures.pdb
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\Project\ConsoleCreatures\obj\Debug\net8.0\ConsoleCreatures.genruntimeconfig.cache
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\Project\ConsoleCreatures\obj\Debug\net8.0\ref\ConsoleCreatures.dll

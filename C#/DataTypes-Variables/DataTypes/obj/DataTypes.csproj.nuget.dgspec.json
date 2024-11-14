@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HeffingtonKL\\OneDrive\\Files\\Programming\\W3Schools\\C-Sharp\\HelloWorld\\C-Sharp-Work.csproj": {}
+    "C:\\Users\\HeffingtonKL\\OneDrive\\Files\\Programming\\CodeCademy\\C#\\DataTypes-Variables\\DataTypes\\DataTypes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HeffingtonKL\\OneDrive\\Files\\Programming\\W3Schools\\C-Sharp\\HelloWorld\\C-Sharp-Work.csproj": {
+    "C:\\Users\\HeffingtonKL\\OneDrive\\Files\\Programming\\CodeCademy\\C#\\DataTypes-Variables\\DataTypes\\DataTypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HeffingtonKL\\OneDrive\\Files\\Programming\\W3Schools\\C-Sharp\\HelloWorld\\C-Sharp-Work.csproj",
-        "projectName": "C-Sharp-Work",
-        "projectPath": "C:\\Users\\HeffingtonKL\\OneDrive\\Files\\Programming\\W3Schools\\C-Sharp\\HelloWorld\\C-Sharp-Work.csproj",
+        "projectUniqueName": "C:\\Users\\HeffingtonKL\\OneDrive\\Files\\Programming\\CodeCademy\\C#\\DataTypes-Variables\\DataTypes\\DataTypes.csproj",
+        "projectName": "DataTypes",
+        "projectPath": "C:\\Users\\HeffingtonKL\\OneDrive\\Files\\Programming\\CodeCademy\\C#\\DataTypes-Variables\\DataTypes\\DataTypes.csproj",
         "packagesPath": "C:\\Users\\HeffingtonKL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HeffingtonKL\\OneDrive\\Files\\Programming\\W3Schools\\C-Sharp\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\HeffingtonKL\\OneDrive\\Files\\Programming\\CodeCademy\\C#\\DataTypes-Variables\\DataTypes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -46,8 +46,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
