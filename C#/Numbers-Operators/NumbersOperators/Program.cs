@@ -77,7 +77,34 @@ int groupSize = Convert.ToInt32(Console.ReadLine());
       } else {
         Console.WriteLine($"Wrong we can't make {groupSize} groups there are {students % groupSize} students left.");
       };
+Console.WriteLine("");
 
 
-// Does groupSize go evenly into students?
+// Built-In Methods
+/*
+  Math.Abs() = Math.Abs(-5) returns 5
+  Math.Sqrt() = Math.Sqrt(16) returns 4
+  Math.Floor() = Math.Floor(8.65) returns 8
+  Math.Ceiling() = Math.Ceiling(8.65) returns 9
+  Math.Min() = Math.Min(39, 12) returns 12
+  Math.Max() = Math.Max(39, 12) returns 39
+*/
+
+Console.WriteLine("Built-In Methods");
+Console.WriteLine("These built-in methods will square two numbers and find the smallest of the two.");
+Console.WriteLine("What is your first number? ");
+int numberOne = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("What is your second number? ");
+int numberTwo = Convert.ToInt32(Console.ReadLine());
+
+double numberOneSqrt = Math.Floor(Math.Sqrt(Math.Abs(numberOne)));
+double numberTwoSqrt = Math.Floor(Math.Sqrt(Math.Abs(numberTwo)));
+double result = Math.Min(numberOneSqrt, numberTwoSqrt);
+
+Console.WriteLine($"The square root of the first number is: {numberOneSqrt}");
+Console.WriteLine($"The square root of the second number is: {numberTwoSqrt}");
+Console.WriteLine($"Lower number is: {result}");
+
+
+
 
