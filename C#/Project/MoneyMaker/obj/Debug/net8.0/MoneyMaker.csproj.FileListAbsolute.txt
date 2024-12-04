@@ -1,0 +1,15 @@
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\MoneyMaker\obj\Debug\net8.0\MoneyMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\MoneyMaker\obj\Debug\net8.0\MoneyMaker.AssemblyInfoInputs.cache
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\MoneyMaker\obj\Debug\net8.0\MoneyMaker.AssemblyInfo.cs
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\MoneyMaker\obj\Debug\net8.0\MoneyMaker.csproj.CoreCompileInputs.cache
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\MoneyMaker\obj\Debug\net8.0\MoneyMaker.sourcelink.json
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\MoneyMaker\bin\Debug\net8.0\MoneyMaker.exe
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\MoneyMaker\bin\Debug\net8.0\MoneyMaker.deps.json
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\MoneyMaker\bin\Debug\net8.0\MoneyMaker.runtimeconfig.json
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\MoneyMaker\bin\Debug\net8.0\MoneyMaker.dll
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\MoneyMaker\bin\Debug\net8.0\MoneyMaker.pdb
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\MoneyMaker\obj\Debug\net8.0\MoneyMaker.dll
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\MoneyMaker\obj\Debug\net8.0\refint\MoneyMaker.dll
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\MoneyMaker\obj\Debug\net8.0\MoneyMaker.pdb
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\MoneyMaker\obj\Debug\net8.0\MoneyMaker.genruntimeconfig.cache
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\MoneyMaker\obj\Debug\net8.0\ref\MoneyMaker.dll
