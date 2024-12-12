@@ -1,0 +1,15 @@
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\MadLibs\obj\Debug\net8.0\MadLibs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\MadLibs\obj\Debug\net8.0\MadLibs.AssemblyInfoInputs.cache
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\MadLibs\obj\Debug\net8.0\MadLibs.AssemblyInfo.cs
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\MadLibs\obj\Debug\net8.0\MadLibs.csproj.CoreCompileInputs.cache
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\MadLibs\obj\Debug\net8.0\MadLibs.sourcelink.json
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\MadLibs\bin\Debug\net8.0\MadLibs.exe
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\MadLibs\bin\Debug\net8.0\MadLibs.deps.json
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\MadLibs\bin\Debug\net8.0\MadLibs.runtimeconfig.json
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\MadLibs\bin\Debug\net8.0\MadLibs.dll
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\MadLibs\bin\Debug\net8.0\MadLibs.pdb
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\MadLibs\obj\Debug\net8.0\MadLibs.dll
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\MadLibs\obj\Debug\net8.0\refint\MadLibs.dll
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\MadLibs\obj\Debug\net8.0\MadLibs.pdb
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\MadLibs\obj\Debug\net8.0\MadLibs.genruntimeconfig.cache
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\MadLibs\obj\Debug\net8.0\ref\MadLibs.dll
