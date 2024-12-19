@@ -1,0 +1,15 @@
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\SpaceExpedition\bin\Debug\net8.0\SpaceExpedition.exe
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\SpaceExpedition\bin\Debug\net8.0\SpaceExpedition.deps.json
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\SpaceExpedition\bin\Debug\net8.0\SpaceExpedition.runtimeconfig.json
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\SpaceExpedition\bin\Debug\net8.0\SpaceExpedition.dll
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\SpaceExpedition\bin\Debug\net8.0\SpaceExpedition.pdb
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\SpaceExpedition\obj\Debug\net8.0\SpaceExpedition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\SpaceExpedition\obj\Debug\net8.0\SpaceExpedition.AssemblyInfoInputs.cache
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\SpaceExpedition\obj\Debug\net8.0\SpaceExpedition.AssemblyInfo.cs
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\SpaceExpedition\obj\Debug\net8.0\SpaceExpedition.csproj.CoreCompileInputs.cache
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\SpaceExpedition\obj\Debug\net8.0\SpaceExpedition.sourcelink.json
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\SpaceExpedition\obj\Debug\net8.0\SpaceExpedition.dll
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\SpaceExpedition\obj\Debug\net8.0\refint\SpaceExpedition.dll
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\SpaceExpedition\obj\Debug\net8.0\SpaceExpedition.pdb
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\SpaceExpedition\obj\Debug\net8.0\SpaceExpedition.genruntimeconfig.cache
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\SpaceExpedition\obj\Debug\net8.0\ref\SpaceExpedition.dll
