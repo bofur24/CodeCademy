@@ -6,7 +6,7 @@ if (socks <= 3) {
   Console.WriteLine("Time to do laundry!");
 } 
   Console.WriteLine("If false, Time to do laundry! will be skipped.");
-
+Console.WriteLine();
 
 // If-Else Statements
 
@@ -20,4 +20,34 @@ if (people <= 10 && weather == "nice"){
 } else {
   Console.WriteLine($"We will eat at Soup N Sandwich");
 }
+Console.WriteLine();
+// Else If Statements
 
+Console.WriteLine("pH is a scale used to specify the acidity or basicity of an aqueous solution.");
+Console.WriteLine("Is the solution acidic, basic or neutral");
+Console.Write("What level of pH do you have? Enter number between 1 - 7: ");
+double ph = Convert.ToDouble(Console.ReadLine());
+
+if (ph < 7) {
+  Console.WriteLine("The pH level is Acidic.");
+}else if (ph > 7) {
+  Console.WriteLine("The pH level is Basic.");
+}else {
+  Console.WriteLine("The pH level is Neutral.");
+}
+Console.WriteLine();
+
+// Switch Statement
+
+switch (ph) {
+  case < 7:
+  Console.WriteLine("Acidic");
+  break;
+
+  case > 7:
+  Console.WriteLine("Basic");
+  break;
+
+  default:
+  Console.WriteLine("Neutral");
+}
