@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HeffingtonKL\\OneDrive\\Files\\Programming\\CodeCademy\\C#\\Conditionals\\Conditionals.csproj",
-      "projectName": "Conditionals",
-      "projectPath": "C:\\Users\\HeffingtonKL\\OneDrive\\Files\\Programming\\CodeCademy\\C#\\Conditionals\\Conditionals.csproj",
+      "projectUniqueName": "C:\\Users\\HeffingtonKL\\OneDrive\\Files\\Programming\\CodeCademy\\C#\\Project\\PasswordChecker\\PasswordChecker.csproj",
+      "projectName": "PasswordChecker",
+      "projectPath": "C:\\Users\\HeffingtonKL\\OneDrive\\Files\\Programming\\CodeCademy\\C#\\Project\\PasswordChecker\\PasswordChecker.csproj",
       "packagesPath": "C:\\Users\\HeffingtonKL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HeffingtonKL\\OneDrive\\Files\\Programming\\CodeCademy\\C#\\Conditionals\\obj\\",
+      "outputPath": "C:\\Users\\HeffingtonKL\\OneDrive\\Files\\Programming\\CodeCademy\\C#\\Project\\PasswordChecker\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

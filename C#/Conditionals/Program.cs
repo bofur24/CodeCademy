@@ -50,4 +50,20 @@ switch (ph) {
 
   default:
   Console.WriteLine("Neutral");
+  break;
 }
+
+
+// Ternary Operators
+// The ? determines the outcome
+// The : separates the ture / false answers
+
+Console.WriteLine("Your growing peppers and need to only pick them when they are 3.5 inches or longer");
+Console.Write("You measure the pepper, how long it it? (1 - 10)");
+
+int pepperLength = Convert.ToInt32(Console.ReadLine());
+string result = (pepperLength >= 3.5) ? "pick it now!" : "wait a little longer";
+
+Console.WriteLine($"Your pepper is {pepperLength} inches long, so we should {result}"); 
+
+
