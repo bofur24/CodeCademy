@@ -1,0 +1,15 @@
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\OwnAdventure\bin\Debug\net8.0\OwnAdventure.exe
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\OwnAdventure\bin\Debug\net8.0\OwnAdventure.deps.json
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\OwnAdventure\bin\Debug\net8.0\OwnAdventure.runtimeconfig.json
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\OwnAdventure\bin\Debug\net8.0\OwnAdventure.dll
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\OwnAdventure\bin\Debug\net8.0\OwnAdventure.pdb
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\OwnAdventure\obj\Debug\net8.0\OwnAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\OwnAdventure\obj\Debug\net8.0\OwnAdventure.AssemblyInfoInputs.cache
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\OwnAdventure\obj\Debug\net8.0\OwnAdventure.AssemblyInfo.cs
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\OwnAdventure\obj\Debug\net8.0\OwnAdventure.csproj.CoreCompileInputs.cache
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\OwnAdventure\obj\Debug\net8.0\OwnAdventure.sourcelink.json
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\OwnAdventure\obj\Debug\net8.0\OwnAdventure.dll
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\OwnAdventure\obj\Debug\net8.0\refint\OwnAdventure.dll
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\OwnAdventure\obj\Debug\net8.0\OwnAdventure.pdb
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\OwnAdventure\obj\Debug\net8.0\OwnAdventure.genruntimeconfig.cache
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\CodeCademy\C#\Project\OwnAdventure\obj\Debug\net8.0\ref\OwnAdventure.dll
